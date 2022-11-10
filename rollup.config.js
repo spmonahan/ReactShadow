@@ -16,6 +16,7 @@ module.exports = {
         '@emotion/server',
         '@material-ui/styles',
         'jss',
+        '@griffel/react',
     ],
     output: [
         {
